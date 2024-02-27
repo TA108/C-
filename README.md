@@ -1,2 +1,2 @@
-# C-
+# C++
 Beginner codes of C++
